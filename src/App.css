@@ -1,0 +1,28 @@
+/* Additional app-specific styles */
+.card {
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.shadow-sm {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+
+/* Navbar styling */
+.navbar {
+  padding: 1rem 0;
+}
+
+.navbar-nav .nav-link {
+  padding: 0.5rem 1rem;
+  transition: all 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  opacity: 0.8;
+}
+
+/* Footer styling */
+footer {
+  margin-top: auto;
+}
