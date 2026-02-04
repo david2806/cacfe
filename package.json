@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://david2806.github.io/cacfe",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
